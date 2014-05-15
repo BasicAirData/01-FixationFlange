@@ -43,5 +43,21 @@ F=Fore side
 A=Aft side
 First digit, static port position
 Second digit, total pressure port position
+-Position of fixation tabs
+Length: two digits
+Looking from the flange side to the pitot tip.
+
+First digit table
+L =left side
+R=Right side
+T=Top side
+B=Bottom side
+F=Fore side
+A=Aft side
+Second digit table
+A=Non Symmetrical fixing
+S=Symmetrical fixing
+
+
 The basic flange for 8mm Pitot tube is then coded
-"010408R352901360136TT" This code will represent the 3D model file name.
+"010408R352901360136TTRS" This code will represent the 3D model file name.
