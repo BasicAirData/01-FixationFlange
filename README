@@ -1,8 +1,8 @@
 BasicAirData (c) 2014 JLJ
 
-FIXATION FLANGE :
+FIXATION FLANGE type 01 :
 
-This repository is fo the 8mmESP BasicAirData Pitot flange.
+This repository is fo the 8mmESP BasicAirData Pitot flange, in particular the type 01.
 http://www.basicairdata.eu/flanged-pitot.html
 As there are many different installation layouts the need for different flange models arise.
 The numbering procedure for derivate components is described in CODING file.
