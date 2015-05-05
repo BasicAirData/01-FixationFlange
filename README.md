@@ -7,7 +7,7 @@
 ##Description##
 
 This repository is fo the 8mmESP BasicAirData pitot flange, in particular the [type 01](http://www.basicairdata.eu/flanged-pitot.html).
-The numbering procedure for derived parts is described in [coding](https://github.com/BasicAirData/01-FixationFlange/blob/master/CODING) file.
+The numbering procedure for derived parts is described into [coding](https://github.com/BasicAirData/01-FixationFlange/blob/master/CODING) file.
 
 ##License##
 BasicAirData is free software licensed under [GNU GPL v3.0](http://www.gnu.org/licenses/gpl-3.0.txt) General Public License
