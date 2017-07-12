@@ -9,5 +9,10 @@
 This repository is fo the 8mmESP BasicAirData pitot flange, in particular the [type 01](http://www.basicairdata.eu/flanged-pitot.html).
 The numbering procedure for derived parts is described into [coding](https://github.com/BasicAirData/01-FixationFlange/blob/master/CODING) file.
 
-## License and General Information
-[License and general info](https://github.com/BasicAirData/Document-Templates/blob/master/general-info.md)
+## Reference documents
+
+[Code of conduct](CODE_OF_CONDUCT.md)
+
+[Contributing Information](CONTRIBUTING.md)
+
+[Repository License](LICENSE)
